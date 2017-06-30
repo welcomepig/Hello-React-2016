@@ -1,2 +1,4 @@
-slide: https://docs.google.com/presentation/d/19iCIlr9BPsB0w3iiyjWHL-3sCviwmG8hhjMGQZ3isac/edit?usp=sharing
+Timeline to record daily life
 
+Inspired by: http://limboy.me/doing.html
+Style: https://codepen.io/phasethree/
