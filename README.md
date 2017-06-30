@@ -1,4 +1,11 @@
-Timeline to record daily life
+# Timeline
 
-Inspired by: http://limboy.me/doing.html
-Style: https://codepen.io/phasethree/
+Simple timeline to record daily life
+  - Inspired by [limboy](http://limboy.me/doing.html)
+  - Style borrowed from [Brady Wright](https://codepen.io/phasethree/)
+
+License
+----
+
+MIT
+
