@@ -1,5 +1,3 @@
-let path = require('path');
-
 module.exports = {
   entry: {
     bundle: './src/index.jsx',
@@ -24,6 +22,9 @@ module.exports = {
       }
     }, {
       test: /\.scss$/,
+      loader: 'style!css!sass'
+    }, {
+      test: /\.css$/,
       loader: 'style!css!sass'
     }]
   }
